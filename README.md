@@ -1,4 +1,6 @@
 RioGrande
 =========
 
-Holds all SnapAtlas' Rio Grande basin work.
+Holds all my Rio Grande basin data vis work.
+
+
